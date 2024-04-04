@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Forecast</title>
+</head>
+<body>
+   	 <pre
+	 <div id="forecast">
+        <!-- Generated forecast content will be inserted here -->
+    </div>
+</body>
+</html>
+
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="alternate" type="application/rss+xml" href="/rss.xml" title="rss feed">
+		<link rel="icon" href="data:,">
+	</head>
+
+<body style="background-color: orange; color: purple;">
+
+<pre>
+ ,--.--------.  ,--.-,,-,--,   ,---.      .-._         ,--.-.,-.                         _,.---._                  
+/==/,  -   , -\/==/  /|=|  | .--.'  \    /==/ \  .-._ /==/- |\  \        ,--.-.  .-,--.,-.' , -  `.   .--.-. .-.-. 
+\==\.-.  - ,-./|==|_ ||=|, | \==\-/\ \   |==|, \/ /, /|==|_ `/_ /       /==/- / /=/_ //==/_,  ,  - \ /==/ -|/=/  | 
+ `--`\==\- \   |==| ,|/=| _| /==/-|_\ |  |==|-  \|  | |==| ,   /        \==\, \/=/. /|==|   .=.     ||==| ,||=| -| 
+      \==\_ \  |==|- `-' _ | \==\,   - \ |==| ,  | -| |==|-  .|          \==\  \/ -/ |==|_ : ;=:  - ||==|- | =/  | 
+      |==|- |  |==|  _     | /==/ -   ,| |==| -   _ | |==| _ , \          |==|  ,_/  |==| , '</pre>
+<p><a href="https://forecast.weather.gov/product.php?site=BGM&issuedby=BGM&product=AFD&format=CI&version=1&glossary=1&highlight=off">today's weather</a></p>
+
+<hr />
+<p><strong>last edit:</strong> 03/13/2024</p>
+</body>
+</html>
+
+
